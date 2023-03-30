@@ -26,7 +26,7 @@
 
 <p align="center">
   <img height="150" width="150" src="images/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahidnsu152&theme=dark&hide_border=true"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HijbullahMahmud&theme=dark&hide_border=true"/>
   <img height="150" width="150" src="images/right.webp">
 </p>
 
