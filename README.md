@@ -73,7 +73,7 @@
 
 <p align="center">
 <a href="https://nahid.kodkofe.com"><img src="https://img.shields.io/badge/-hijbullah.kodkofe.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/hijbullah-al-mahmud-77431914b"><img src="https://img.shields.io/badge/-Nazmul%20Hasan%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hijbullah-al-mahmud-77431914b"><img src="https://img.shields.io/badge/-Hijbullah%20Al%Mahmud%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:hijbullahmahmud14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <!-- <a href="https://instagram.com/nazmul___hasan_nahid"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/nahid-nsu152"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> -->
