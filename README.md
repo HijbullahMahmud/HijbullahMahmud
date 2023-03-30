@@ -68,7 +68,7 @@
 </p>
   <p align="center"> 
   <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/nahidnsu152/count.svg" />
+  <img src="https://profile-counter.glitch.me/HijbullahMahmud/count.svg" />
 </p>
 
 <p align="center">
